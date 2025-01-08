@@ -1,2 +1,0 @@
-Numero1: 2, Numero2: 2, Operatore: somma, Risultato: 4, Data: 2025-01-08 10:20:52
-Numero1: 2, Numero2: 2, Operatore: somma, Risultato: 4, Data: 2025-01-08 10:24:03

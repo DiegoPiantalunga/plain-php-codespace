@@ -1,6 +1,0 @@
--- database: /workspaces/plain-php-codespace/db.sqlite
-
--- Premi il pulsante ▷ nell'angolo in alto a destra della finestra per eseguire l'intero file.
-
-INSERT INTO calcoli (numero1, numero2, operatore, risultato) VALUES (5, 3, 'somma', '8');
-
